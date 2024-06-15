@@ -1,0 +1,4012 @@
+.borrowers-personal-informatio2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.first-name2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.input-field-with-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xl) 0 0;
+}
+.label121 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  line-height: 150%;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field109,
+.name-fields2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field109 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.name-fields2 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label122,
+.middle-name2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label122 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field110,
+.input-field-with-label1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field110 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label1 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label123,
+.last-name2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label123 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field111,
+.input-field-with-label2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field111 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label2 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label124,
+.mothers-maiden-name2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label124 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field112,
+.input-field-with-label3,
+.name-input {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field112 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label3,
+.name-input {
+  flex-direction: column;
+}
+.input-field-with-label3 {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+}
+.name-input {
+  width: 428px;
+  gap: var(--gap-5xl);
+  min-width: 428px;
+  max-width: 100%;
+}
+.date-of-birth2,
+.label125 {
+  position: absolute;
+  margin: 0 !important;
+  line-height: 150%;
+  display: inline-block;
+}
+.date-of-birth2 {
+  width: 295px;
+  top: 0;
+  right: -173px;
+}
+.label125 {
+  width: 218px;
+  top: calc(50% - 10.5px);
+  right: -112px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.field113,
+.input-field-with-label4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  position: relative;
+}
+.field113 {
+  height: 40px;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label4 {
+  width: 122px;
+  padding: var(--padding-13xl) 0 0;
+  gap: var(--gap-5xs);
+}
+.age2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -173px;
+  line-height: 150%;
+  display: inline-block;
+}
+.label126 {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.field114,
+.input-field-with-label5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field114 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) 0 var(--padding-5xs) var(--padding-sm);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label5 {
+  width: 122px;
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.marital-status3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.chevron-down-icon12,
+.label127 {
+  position: relative;
+  overflow: hidden;
+}
+.label127 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron-down-icon12 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.component-212 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+  max-width: 100%;
+}
+.marital-status-dropdown {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+}
+.input-field-with-label-parent,
+.marital-status-dropdown,
+.marital-status2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.marital-status2 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 224px;
+}
+.input-field-with-label-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+}
+.gender2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.input-field-with-label6 {
+  width: 122px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nationality2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -173px;
+  line-height: 150%;
+  display: inline-block;
+}
+.label128 {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.field115,
+.input-field-with-label7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field115 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) 0 var(--padding-5xs) var(--padding-sm);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label7 {
+  width: 122px;
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.citizenship2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -173px;
+  line-height: 150%;
+  display: inline-block;
+}
+.label129 {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.field116 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) 0 var(--padding-5xs) var(--padding-sm);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.citizenship-home-ownership,
+.field116,
+.input-field-with-label8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label8 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-13xl) 0 0;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.citizenship-home-ownership {
+  width: 128px;
+  flex-direction: column;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.home-ownership2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.input-field-with-label9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.chevron-down-icon13,
+.label130 {
+  position: relative;
+  overflow: hidden;
+}
+.label130 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron-down-icon13 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.component-251 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+}
+.birth-date,
+.component-251,
+.gender-nationality1,
+.home-ownership-dropdown {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-ownership-dropdown {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 123px;
+}
+.birth-date,
+.gender-nationality1 {
+  align-self: stretch;
+}
+.gender-nationality1 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.birth-date {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.birth-place2,
+.label131 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label131 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field117,
+.input-field-with-label10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field117 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label10 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 270px;
+  max-width: 100%;
+}
+.label132,
+.resident-since2 {
+  line-height: 150%;
+  display: inline-block;
+}
+.resident-since2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -105px;
+}
+.label132 {
+  width: 106px;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field118,
+.input-field-with-label-group,
+.input-field-with-label11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field118 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label-group,
+.input-field-with-label11 {
+  box-sizing: border-box;
+}
+.input-field-with-label11 {
+  width: 190px;
+  padding: var(--padding-13xl) 0 0;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-group {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-12xl);
+  max-width: 100%;
+}
+.label133,
+.sss-no-or2 {
+  position: relative;
+  line-height: 150%;
+}
+.sss-no-or2 {
+  align-self: stretch;
+}
+.label133 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field119,
+.input-field-with-label12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field119 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label12 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 192px;
+}
+.tax-identification-no2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.label134 {
+  width: 218px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field120 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.field120,
+.input-field-with-label-container,
+.input-field-with-label13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label13 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 192px;
+}
+.input-field-with-label-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-30xl);
+}
+.birthplace-sss,
+.borrower-personal,
+.personal-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.birthplace-sss {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  min-width: 415px;
+}
+.borrower-personal,
+.personal-details {
+  align-self: stretch;
+}
+.personal-details {
+  flex-direction: row;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-base);
+}
+.borrower-personal {
+  flex-direction: column;
+  font-size: var(--font-size-xl);
+}
+.complete-present-address2,
+.label135 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label135 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field121,
+.input-field-with-label14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field121 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label14 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 581px;
+  max-width: 100%;
+}
+.label136,
+.no-of-children2 {
+  line-height: 150%;
+  display: inline-block;
+}
+.no-of-children2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -114px;
+}
+.label136 {
+  width: 106px;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field122 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.field122,
+.input-field-with-label-parent1,
+.input-field-with-label15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label15 {
+  width: 181px;
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-parent1 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: var(--gap-2xl);
+  max-width: 100%;
+}
+.complete-permanent-address4,
+.label137 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label137 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field123,
+.input-field-with-label16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field123 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label16 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 581px;
+  max-width: 100%;
+}
+.label138,
+.no-of-dependents2 {
+  line-height: 150%;
+  display: inline-block;
+}
+.no-of-dependents2 {
+  width: 295px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -112px;
+}
+.label138 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field124,
+.input-field-with-label17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field124 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label17 {
+  width: 183px;
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-parent2,
+.present-address {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.input-field-with-label-parent2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-lgi);
+}
+.present-address {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.complete-permanent-address5,
+.label139 {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.complete-permanent-address5 {
+  width: 436px;
+  max-width: 100%;
+}
+.label139 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field125,
+.input-field-with-label18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field125 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label18 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 581px;
+  max-width: 100%;
+}
+.label140,
+.mailing-address2 {
+  position: absolute;
+  margin: 0 !important;
+  line-height: 150%;
+  display: inline-block;
+}
+.mailing-address2 {
+  width: 295px;
+  top: 0;
+  right: -112px;
+}
+.label140 {
+  width: 218px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  top: calc(50% - 10.5px);
+  right: -51px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field126 {
+  height: 40px;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  padding: var(--padding-5xs) var(--padding-base);
+  position: relative;
+}
+.address-info,
+.field126,
+.input-field-with-label19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label19 {
+  width: 183px;
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.address-info {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: var(--gap-lgi);
+  max-width: 100%;
+}
+.email2,
+.label141 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label141 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field127,
+.input-field-with-label20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field127 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label20 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 310px;
+  max-width: 100%;
+}
+.label142,
+.residence-phone2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label142 {
+  width: 218px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field128,
+.input-field-with-label21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field128 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label21 {
+  width: 270px;
+  flex-direction: column;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.label143,
+.mobile-phone2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label143 {
+  width: 218px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field129,
+.input-field-with-label22 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field129 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label22 {
+  width: 270px;
+  flex-direction: column;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.address-info1,
+.borrower-information1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.address-info1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-20xl-5);
+}
+.borrower-information1 {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.spouses-personal-information {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.first-name3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.input-field-with-label23 {
+  position: absolute;
+  height: 5.85%;
+  width: 35.68%;
+  top: 12.2%;
+  right: 64.32%;
+  bottom: 81.95%;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label144,
+.last-name3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label144 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field130,
+.input-field-with-label24 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.field130 {
+  width: 428px;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label24 {
+  position: absolute;
+  height: 17.56%;
+  width: 38.28%;
+  top: 59.02%;
+  right: 61.72%;
+  bottom: 23.41%;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label145,
+.residence-phone3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label145 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field131,
+.input-field-with-label25 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field131 {
+  width: 310px;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label25 {
+  position: absolute;
+  height: 17.56%;
+  width: 27.73%;
+  top: 82.44%;
+  right: 31.4%;
+  bottom: 0;
+  left: 40.88%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label146,
+.mobile-phone3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label146 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field132,
+.input-field-with-label26 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field132 {
+  width: 310px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label26 {
+  position: absolute;
+  height: 17.56%;
+  width: 27.73%;
+  top: 82.44%;
+  right: 0.18%;
+  bottom: 0;
+  left: 72.09%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label147,
+.sss-no-or3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label147 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field133,
+.input-field-with-label27 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field133 {
+  width: 310px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label27 {
+  position: absolute;
+  height: 17.56%;
+  width: 27.73%;
+  top: 59.02%;
+  right: 31.4%;
+  bottom: 23.41%;
+  left: 40.88%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label148,
+.tax-identification-no3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label148 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field134,
+.input-field-with-label28 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field134 {
+  width: 310px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label28 {
+  position: absolute;
+  height: 17.56%;
+  width: 27.73%;
+  top: 59.02%;
+  right: 0.18%;
+  bottom: 23.41%;
+  left: 72.09%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.email3,
+.label149 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label149 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field135,
+.input-field-with-label29 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.field135 {
+  width: 428px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-7xs) var(--padding-base);
+}
+.input-field-with-label29 {
+  position: absolute;
+  height: 16.83%;
+  width: 38.28%;
+  top: 82.44%;
+  right: 61.72%;
+  bottom: 0.73%;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label150,
+.middle-name3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label150 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field136,
+.input-field-with-label30 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.field136 {
+  width: 428px;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label30 {
+  position: absolute;
+  height: 17.56%;
+  width: 38.28%;
+  top: 35.61%;
+  right: 61.72%;
+  bottom: 46.83%;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label151 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  line-height: 150%;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field137 {
+  position: absolute;
+  height: 9.76%;
+  width: 38.28%;
+  top: 20%;
+  right: 61.72%;
+  bottom: 70.24%;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.date-of-birth3,
+.label152 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label152 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field138,
+.input-field-with-label31 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field138 {
+  width: 122px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label31 {
+  position: absolute;
+  height: 17.56%;
+  width: 10.91%;
+  top: 12.2%;
+  right: 48.21%;
+  bottom: 70.24%;
+  left: 40.88%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.age3,
+.label153 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label153 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field139,
+.input-field-with-label32 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field139 {
+  width: 122px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label32 {
+  position: absolute;
+  height: 17.56%;
+  width: 10.91%;
+  top: 12.2%;
+  right: 35.06%;
+  bottom: 70.24%;
+  left: 54.02%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label154,
+.nationality3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label154 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field140,
+.input-field-with-label33 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field140 {
+  width: 122px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label33 {
+  position: absolute;
+  height: 17.56%;
+  width: 10.91%;
+  top: 35.61%;
+  right: 48.21%;
+  bottom: 46.83%;
+  left: 40.88%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.citizenship3,
+.label155 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label155 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field141,
+.input-field-with-label34 {
+  display: flex;
+  justify-content: flex-start;
+}
+.field141 {
+  width: 122px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label34 {
+  position: absolute;
+  height: 17.56%;
+  width: 10.91%;
+  top: 35.61%;
+  right: 35.06%;
+  bottom: 46.83%;
+  left: 54.02%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.birth-place3,
+.label156 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label156 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field142,
+.input-field-with-label35 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.field142 {
+  width: 364px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label35 {
+  position: absolute;
+  height: 17.56%;
+  width: 32.55%;
+  top: 35.61%;
+  right: 0.18%;
+  bottom: 46.83%;
+  left: 67.26%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.label157,
+.mothers-maiden-name3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label157 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field143,
+.input-field-with-label36 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.field143 {
+  width: 365px;
+  height: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label36 {
+  position: absolute;
+  height: 17.56%;
+  width: 32.65%;
+  top: 12.2%;
+  right: 0.18%;
+  bottom: 70.24%;
+  left: 67.17%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.spouse-informationvariant3 {
+  align-self: stretch;
+  height: 410px;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.borrowers-financial-informati4 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.employment-type2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.chevron-down-icon14,
+.label158 {
+  position: relative;
+  overflow: hidden;
+}
+.label158 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron-down-icon14 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.component-231 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.employment-type-input,
+.employment-type-input-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.employment-type-input {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  z-index: 1;
+}
+.employment-type-input-wrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  min-width: 239px;
+}
+.label159,
+.telephone-no4 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label159 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field144,
+.input-field-with-label37 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field144 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label37 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+  z-index: 1;
+}
+.label160,
+.present-titleposition2 {
+  line-height: 150%;
+  display: inline-block;
+}
+.present-titleposition2 {
+  width: 436px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -117px;
+}
+.label160 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field145,
+.input-field-with-label38 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field145 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label38 {
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.borrower-financial,
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--gap-50xl-5);
+  margin-top: -1px;
+  font-size: var(--font-size-base);
+}
+.borrower-financial {
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.employerbusiness-name2,
+.label161 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label161 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field146,
+.input-field-with-label39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field146 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label39 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label162,
+.nature-of-business2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label162 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field147,
+.input-field-with-label40 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field147 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label40 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.date-hiredstart-of2,
+.label163 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label163 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field148 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.employer-info,
+.field148,
+.input-field-with-label41 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label41 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.employer-info {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+}
+.label164,
+.office-address2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label164 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field149,
+.input-field-with-label42 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field149 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label42 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label165,
+.previous-employer2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label165 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field150,
+.input-field-with-label43 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field150 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label43 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label166,
+.years-of-employmentbusiness2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label166 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field151,
+.input-field-with-label44 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field151 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label44 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.allowances-business2,
+.label167 {
+  position: relative;
+  line-height: 150%;
+}
+.allowances-business2 {
+  align-self: stretch;
+}
+.label167 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field152 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.allowances-field {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.allowances-business-parent,
+.allowances-field,
+.previous-employment2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.allowances-business-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.previous-employment2 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+}
+.label168,
+.previous-titleposition2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label168 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field153,
+.input-field-with-label45 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field153 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label45 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label169,
+.rental-income2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label169 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field154,
+.input-field-with-label46,
+.previous-job-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field154 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label46,
+.previous-job-info {
+  flex-direction: column;
+}
+.input-field-with-label46 {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-5xs);
+}
+.previous-job-info {
+  flex: 1;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+}
+.gross-annual-salary2,
+.label170 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label170 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field155,
+.input-field-with-label47 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field155 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label47 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label171,
+.others2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label171 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field156 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.annual-income,
+.input-field-with-label48 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.input-field-with-label48 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: var(--gap-5xs);
+}
+.annual-income {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+}
+.income-commissions2,
+.label172 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label172 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field157,
+.input-field-with-label49 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field157 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label49 {
+  flex-direction: column;
+  padding: 0 0 0 var(--padding-11xs);
+  gap: var(--gap-5xs);
+}
+.label173,
+.total2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label173 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field158 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label50,
+.total-income {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.input-field-with-label50 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.total-income {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+  max-width: 100%;
+}
+.financial-information,
+.previous-income {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.previous-income {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-49xl-5);
+}
+.financial-information {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.spouses-financial-information {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.employment-type3 {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+}
+.employment-type-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 0;
+}
+.chevron-down-icon15,
+.label174 {
+  position: relative;
+  overflow: hidden;
+}
+.label174 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron-down-icon15 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.component-232,
+.group-div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-232 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.group-div {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  min-width: 239px;
+  z-index: 1;
+}
+.label175,
+.telephone-no5 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label175 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field159,
+.input-field-with-label51 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field159 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label51 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label176,
+.present-titleposition3 {
+  line-height: 150%;
+  display: inline-block;
+}
+.present-titleposition3 {
+  width: 436px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -117px;
+}
+.label176 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field160,
+.input-field-with-label52 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field160 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label52 {
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.frame-parent4,
+.spouses-financial-information-parent {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--gap-50xl-5);
+  margin-top: -1px;
+  font-size: var(--font-size-base);
+}
+.spouses-financial-information-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.employerbusiness-name3,
+.label177 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label177 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field161,
+.input-field-with-label53 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field161 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label53 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label178,
+.nature-of-business3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label178 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field162,
+.input-field-with-label54 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field162 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label54 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.date-hiredstart-of3,
+.label179 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label179 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field163 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.field163,
+.input-field-with-label-parent3,
+.input-field-with-label55 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label55 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.input-field-with-label-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+}
+.label180,
+.office-address3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label180 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field164,
+.input-field-with-label56 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field164 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label56 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label181,
+.previous-employer3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label181 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field165,
+.input-field-with-label57 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field165 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label57 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label182,
+.years-of-employmentbusiness3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label182 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field166,
+.input-field-with-label58 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field166 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label58 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.allowances-business3,
+.label183 {
+  position: relative;
+  line-height: 150%;
+}
+.allowances-business3 {
+  align-self: stretch;
+}
+.label183 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field167 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.field-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.allowances-business-group,
+.field-wrapper,
+.input-field-with-label-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.allowances-business-group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.input-field-with-label-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+}
+.label184,
+.previous-titleposition3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label184 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field168,
+.input-field-with-label59 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field168 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label59 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label185,
+.rental-income3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label185 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field169 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label-parent5,
+.input-field-with-label60 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field-with-label60 {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-parent5 {
+  flex: 1;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+}
+.gross-annual-salary3,
+.label186 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label186 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field170,
+.input-field-with-label61 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field170 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label61 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.label187,
+.others3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label187 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field171 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label-parent6,
+.input-field-with-label62 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.input-field-with-label62 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-parent6 {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+}
+.income-commissions3,
+.label188 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label188 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field172,
+.input-field-with-label63 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field172 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label63 {
+  flex-direction: column;
+  padding: 0 0 0 var(--padding-11xs);
+  gap: var(--gap-5xs);
+}
+.label189,
+.total3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label189 {
+  width: 106px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field173 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label-parent7,
+.input-field-with-label64 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.input-field-with-label64 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.input-field-with-label-parent7 {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  min-width: 241px;
+  max-width: 100%;
+}
+.financial-information1,
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-49xl-5);
+}
+.financial-information1 {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.existing-loan-information3 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.label190,
+.name-of-creditorbank2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label190 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field174,
+.input-field-with-label65 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field174 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label65 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label191,
+.type-of-loan2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label191 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field175,
+.input-field-with-label66 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field175 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label66 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label192,
+.maturity-date2 {
+  line-height: 150%;
+  display: inline-block;
+}
+.maturity-date2 {
+  width: 436px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -117px;
+}
+.label192 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field176,
+.input-field-with-label67 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field176 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label67 {
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.creditor-loan-info,
+.existing-loan-information-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.creditor-loan-info {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+  font-size: var(--font-size-base);
+}
+.existing-loan-information-parent {
+  flex-direction: column;
+}
+.label193,
+.original-loan-amount2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label193 {
+  width: 238px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field177,
+.input-field-with-label68 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field177 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label68 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label194,
+.outstanding-balance2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label194 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field178,
+.input-field-with-label69 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field178 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label69 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.label195,
+.monthly-amortization3 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label195 {
+  width: 218px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.field179,
+.input-field-with-label70 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field179 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.input-field-with-label70 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.existing-loan-information2,
+.loan-amount-info {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.loan-amount-info {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+  font-size: var(--font-size-base);
+}
+.existing-loan-information2 {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.borrowers-financial-informati5 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.account-number2,
+.label196 {
+  line-height: 150%;
+  display: inline-block;
+}
+.account-number2 {
+  width: 436px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -117px;
+}
+.label196 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field180,
+.input-field-with-label71 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field180 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label71 {
+  padding: var(--padding-13xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.account-type2 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.chevron-down-icon16,
+.label197 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label197 {
+  width: 247px;
+  line-height: 24px;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron-down-icon16 {
+  height: 24px;
+  width: 24px;
+  min-height: 24px;
+}
+.dropdown2 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+}
+.account-fields,
+.component-272,
+.dropdown2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-272 {
+  align-self: stretch;
+  flex-direction: row;
+  font-size: var(--body-body-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.account-fields {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.bank-and-branch2,
+.label198 {
+  width: 295px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.label198 {
+  width: 126px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--body-body-14-size);
+  background-color: transparent;
+  height: 21px;
+  color: var(--color-gray-100);
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.field181 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.input-field-with-label72 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  min-width: 239px;
+}
+.account-info1,
+.borrower-information2,
+.input-field-with-label72,
+.root1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-info1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-50xl-5);
+  font-size: var(--font-size-base);
+}
+.borrower-information2,
+.root1 {
+  flex-direction: column;
+}
+.borrower-information2 {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body-body-14);
+}
+.root1 {
+  width: 100%;
+  position: relative;
+  gap: var(--gap-60xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 900px) {
+  .name-input {
+    flex: 1;
+  }
+  .personal-details {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 675px) {
+  .name-input {
+    min-width: 100%;
+  }
+  .gender-nationality1,
+  .input-field-with-label-parent {
+    flex-wrap: wrap;
+  }
+  .input-field-with-label-group {
+    flex-wrap: wrap;
+    gap: var(--gap-mini);
+  }
+  .input-field-with-label-container {
+    flex-wrap: wrap;
+    gap: var(--gap-5xl);
+  }
+  .input-field-with-label14,
+  .input-field-with-label16,
+  .input-field-with-label18 {
+    min-width: 100%;
+  }
+  .address-info1 {
+    gap: var(--gap-xl);
+  }
+  .employer-info,
+  .frame-parent3,
+  .previous-employment2 {
+    gap: var(--gap-16xl);
+  }
+  .previous-income {
+    gap: var(--gap-15xl);
+  }
+  .frame-parent4,
+  .input-field-with-label-parent3,
+  .input-field-with-label-parent4 {
+    gap: var(--gap-16xl);
+  }
+  .frame-parent5 {
+    gap: var(--gap-15xl);
+  }
+  .account-info1,
+  .creditor-loan-info,
+  .loan-amount-info {
+    gap: var(--gap-16xl);
+  }
+  .root1 {
+    gap: var(--gap-20xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .borrowers-personal-informatio2 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .birthplace-sss {
+    min-width: 100%;
+  }
+  .borrowers-financial-informati4,
+  .spouses-personal-information {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .employer-info,
+  .frame-parent3,
+  .previous-employment2,
+  .previous-income {
+    gap: var(--gap-mid);
+  }
+  .spouses-financial-information {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .frame-parent4,
+  .frame-parent5,
+  .input-field-with-label-parent3,
+  .input-field-with-label-parent4 {
+    gap: var(--gap-mid);
+  }
+  .existing-loan-information3 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .creditor-loan-info,
+  .loan-amount-info {
+    gap: var(--gap-mid);
+  }
+  .borrowers-financial-informati5 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .account-info1 {
+    gap: var(--gap-mid);
+  }
+  .root1 {
+    gap: var(--gap-xl);
+  }
+}

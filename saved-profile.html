@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./saved-profile.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair Display:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="saved-profile">
+      <header class="header-container">
+        <div class="header4">
+          <div class="header-background1"></div>
+          <div class="logo4">
+            <img
+              class="mask-group-icon14"
+              loading="lazy"
+              alt=""
+              src="./public/mask-group@2x.png"
+            />
+
+            <a class="bpi4">BPI</a>
+            <div class="header-navigation">
+              <div class="housing-loan-link">
+                <a class="housing-loan4">Housing Loan</a>
+              </div>
+              <div class="application-form-link">
+                <a class="application-form4">Application Form</a>
+              </div>
+            </div>
+          </div>
+          <nav class="navigation-bar">
+            <nav class="navigation-links">
+              <a class="home4" id="homeText">Home</a>
+              <a class="about4" id="aboutText">About</a>
+              <a class="contact-agreement4" id="contactAgreementText"
+                >Contact Agreement</a
+              >
+            </nav>
+          </nav>
+          <div class="primary-button11">
+            <div class="get-started4">LOGIN</div>
+          </div>
+        </div>
+        <button class="primary-button12" id="primaryButton">
+          <div class="logout3">LOGOUT</div>
+        </button>
+      </header>
+      <div class="content1">
+        <div class="rectangle-container">
+          <div class="frame-inner"></div>
+          <div class="headers-and-icons-parent">
+            <div class="headers-and-icons">
+              <img
+                class="mask-group-icon15"
+                alt=""
+                src="./public/mask-group-11@2x.png"
+              />
+
+              <div class="profile-frame">
+                <b class="profile4">Profile</b>
+              </div>
+            </div>
+            <div class="headers-and-icons1" id="headersAndIcons1">
+              <img
+                class="mask-group-icon16"
+                alt=""
+                src="./public/mask-group-2@2x.png"
+              />
+
+              <div class="new-requests-wrapper1">
+                <b class="new-requests4">New Requests</b>
+              </div>
+            </div>
+            <div class="headers-and-icons2" id="headersAndIcons2">
+              <img
+                class="mask-group-icon17"
+                alt=""
+                src="./public/mask-group-3@2x.png"
+              />
+
+              <b class="requests4">Requests</b>
+            </div>
+          </div>
+        </div>
+        <div class="profile-details-wrapper">
+          <div class="profile-details">
+            <h1 class="profile5">Profile</h1>
+            <button class="group-button" id="groupButton">
+              <div class="frame-child1"></div>
+              <b class="edit-profile">Edit Profile</b>
+            </button>
+          </div>
+        </div>
+      </div>
+      <section class="footer4">
+        <p class="all-rights-reserved-container4">
+          <span class="all-rights-reserved4">© 2024 All rights reserved. </span>
+          <span class="made-by-students4"
+            >Made by students from Polytechnic University of the Philippines -
+            Manila.</span
+          >
+        </p>
+        <div class="footer-background1"></div>
+      </section>
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./landing-page.html";
+        });
+      }
+      
+      var aboutText = document.getElementById("aboutText");
+      if (aboutText) {
+        aboutText.addEventListener("click", function (e) {
+          window.location.href = "./about-us.html";
+        });
+      }
+      
+      var contactAgreementText = document.getElementById("contactAgreementText");
+      if (contactAgreementText) {
+        contactAgreementText.addEventListener("click", function (e) {
+          window.location.href = "./contact-agreement.html";
+        });
+      }
+      
+      var primaryButton = document.getElementById("primaryButton");
+      if (primaryButton) {
+        primaryButton.addEventListener("click", function (e) {
+          window.location.href = "./landing-page.html";
+        });
+      }
+      
+      var headersAndIcons1 = document.getElementById("headersAndIcons1");
+      if (headersAndIcons1) {
+        headersAndIcons1.addEventListener("click", function (e) {
+          window.location.href = "./new-requests.html";
+        });
+      }
+      
+      var headersAndIcons2 = document.getElementById("headersAndIcons2");
+      if (headersAndIcons2) {
+        headersAndIcons2.addEventListener("click", function (e) {
+          window.location.href = "./requests.html";
+        });
+      }
+      
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./profile.html";
+        });
+      }
+      </script>
+  </body>
+</html>
